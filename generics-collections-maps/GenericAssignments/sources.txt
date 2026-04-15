@@ -1,0 +1,16 @@
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\AnimalPrinter.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\Box.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\Cart.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\CourseManagement.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\FleetManager.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\FruitBox.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\GenericMethods.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\ListCopier.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\Marketplace.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\MaximumFinder.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\MealPlanner.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\NumberUtils.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\Pair.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\PriceCalculator.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\ResumeScreening.java
+C:\Users\yashkumar\Desktop\Coding\BridgeLabz-Training-1Y\GenericAssignments\src\com\gla\collections\WarehouseSystemGeneric.java
